@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**PraptiAgham/PraptiAgham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm  Prapti
 
-Here are some ideas to get you started:
+🎓 Fresher | Aspiring Data Analyst  
+📍 India  
+📊 Passionate about turning data into insights  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+- 🌱 Currently learning: SQL, Python, Power BI  
+- 📈 Interested in Data Analysis & Visualization  
+- 💡 Love solving real-world problems using data  
+- 🎯 Goal: To become a skilled Data Analyst  
+
+---
+
+## 🛠️ Skills
+- 📊 Data Analysis: Excel, Power BI  
+- 🗄️ Database: SQL  
+- 💻 Programming: Python (Basics)  
+- 📉 Visualization: Charts, Dashboards  
+
+---
+
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/prapti-agham 
+- Email: Praptiagham4@gmail.com 
+
+---
+
+⭐ “Turning data into decisions.”
